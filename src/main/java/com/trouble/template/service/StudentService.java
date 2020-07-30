@@ -1,7 +1,7 @@
-package com.panda.template.service;
+package com.trouble.template.service;
 
-import com.panda.template.dao.StudentDao;
-import com.panda.template.entity.Student;
+import com.trouble.template.dao.StudentDao;
+import com.trouble.template.entity.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

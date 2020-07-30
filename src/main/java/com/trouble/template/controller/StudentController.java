@@ -1,8 +1,8 @@
-package com.panda.template.controller;
+package com.trouble.template.controller;
 
 import com.alibaba.fastjson.JSON;
-import com.panda.template.entity.Student;
-import com.panda.template.service.StudentService;
+import com.trouble.template.entity.Student;
+import com.trouble.template.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

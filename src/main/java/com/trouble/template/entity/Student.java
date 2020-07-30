@@ -1,4 +1,4 @@
-package com.panda.template.entity;
+package com.trouble.template.entity;
 
 import lombok.Getter;
 import lombok.Setter;
